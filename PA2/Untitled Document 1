@@ -1,0 +1,4 @@
+$> gcc -std=c99 -o mlfq mlfq.c
+
+./mlfq < input.txt > output.txt
+
